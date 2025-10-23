@@ -15,9 +15,9 @@
 
         <section id="hero" class="py-5 text-center bg-light">
         <h1>Ir a la pagina Web</h1>
-                            <li">
+        <li">
                         <a href="{{ url('/home') }}">WebSite</a>
-                    </li>
+        </li>
     </section>
 
 @endsection
